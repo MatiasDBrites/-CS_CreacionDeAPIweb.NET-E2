@@ -97,3 +97,7 @@ dotnet build
 ```
 
 La compilación se ejecuta correctamente sin advertencias. Si se produce un error en la compilación, compruebe la salida con el fin de obtener información para solucionar problemas.
+
+[![adicion-De-Una-Alm-De-Datos-E2-A.png](https://i.postimg.cc/TwCnYCXb/adicion-De-Una-Alm-De-Datos-E2-A.png)](https://postimg.cc/Vr0JK9vs)
+
+[![adicion-De-Una-Alm-De-Datos-E2-B.png](https://i.postimg.cc/T2Nnz70M/adicion-De-Una-Alm-De-Datos-E2-B.png)](https://postimg.cc/jCNWNhBZ)
